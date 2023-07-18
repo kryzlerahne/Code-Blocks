@@ -15,3 +15,7 @@ So, this program was created to learn the basics of Python in one of the most ex
 
 Simply, the goal and objective of this program is for the users to enjoy and be entertained while learning and acquiring new knowledge.
 The basic learning of Python will include the following: its basic concept, strings and variables, control structures and some functions and modules.
+
+**Screenshots:**
+![level4map](https://github.com/kryzlerahne/Code-Blocks/assets/74886614/2fde4eeb-15c1-475e-9733-0de9252f3864)
+
